@@ -23,16 +23,29 @@ Este projeto implementa um sistema completo de classificação de doenças em fo
 
 ## Exemplo com plantas do tipo Healthy
 
-**Imagem original**
+  <div align="center">
+      <h3><b>Imagem Original</b></h3>
+    </div>
+
 ![8fd88738e26f45c4](https://github.com/user-attachments/assets/f4a73baa-8f92-4f22-8eb9-561a9e8a5810) 
 
-**Imagem Pré-Processada**
+ <div align="center">
+      <h3><b>Imagem Pré-Processada</b></h3>
+    </div>
+    
 ![powdery_9ff7d2a548203c4b](https://github.com/user-attachments/assets/779f02de-e02d-468b-9852-9e837c27f147) 
 
-**Seg de Textura**
+<div align="center">
+      <h3><b>Seg de Textura</b></h3>
+    </div>
+
 ![powdery_9ff7d2a548203c4b](https://github.com/user-attachments/assets/8bbdaf5f-6f1d-4006-9e51-d95447f0b836)
 
-**Máscara**
+
+<div align="center">
+      <h3><b>Máscara</b></h3>
+    </div>
+    
 ![powdery_9ff7d2a548203c4b](https://github.com/user-attachments/assets/ffb4871d-3c8c-4a07-9e6d-2e67973d8920)
 
 
